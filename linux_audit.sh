@@ -2,7 +2,7 @@
 
 # Linux Security Audit Script
 # Author: Your Name
-# GitHub: https://github.com/yourusername/linux-security-audit
+# GitHub: https://github.com/skwidstone/rnlinux-security-audit
 
 LOG_FILE="audit_report.txt"
 
