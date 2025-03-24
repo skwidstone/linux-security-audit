@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Linux Security Audit Script
-# Author: Your Name
+# Author: Vladyslav Plakhov
 # GitHub: https://github.com/skwidstone/rnlinux-security-audit
 
 LOG_FILE="audit_report.txt"
