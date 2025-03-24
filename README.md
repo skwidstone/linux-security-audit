@@ -11,6 +11,6 @@ This is a Bash script for auditing Linux system security. It checks for security
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/linux-security-audit.git
+git clone https://github.com/skwidstone/linux-security-audit.git
 cd linux-security-audit
 chmod +x linux_audit.sh
